@@ -1,2 +1,0 @@
-# gzhu
-FOR FRESHMAN
