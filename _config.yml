@@ -100,10 +100,8 @@ theme: next
 deploy:
   type: git
   repo: 
-    github1: git@github.com:hugeeechen/gzhu.git
-    github2: git@github.com:hugeeechen/Hexo.git
-    coding: git@e.coding.net:h0u2-c/h0u2_c/h0u2_c.git
-    gitee: git@gitee.com:H0u2_C/Hexo.git
+    github: git@github.com:hugeeechen/gzhu.git
+    gitee: git@gitee.com:H0u2_C/gzhu.git
   branch: master
 
 # Search
