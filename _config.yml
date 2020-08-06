@@ -100,7 +100,7 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:hugeeechen/gzhu.git
-  branch: gh-pages
+  branch: master
 
 # Search
 search:
