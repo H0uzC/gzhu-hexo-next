@@ -15,8 +15,8 @@ jobs:
       run: sudo pip install coscmd
     - name: Configure coscmd
       env:
-        SECRET_ID: ${{ secrets.SecretId }}
-        SECRET_KEY: ${{ secrets.SecretKey }}
+        SECRET_ID: ${{ secrets.SECRETID }}
+        SECRET_KEY: ${{ secrets.SECRETKEY }}
         BUCKET: ${{ secrets.BUCKET }}
         REGION: ap-guangzhou
       run: coscmd config -a $SECRETID -s $SECRETKEY -b $BUCKET -r $REGION
