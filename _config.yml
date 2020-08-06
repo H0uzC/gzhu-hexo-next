@@ -99,10 +99,8 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: 
-    github: git@github.com:hugeeechen/gzhu.git
-    gitee: git@gitee.com:H0u2_C/gzhu.git
-  branch: master
+  repo: git@github.com:hugeeechen/gzhu.git
+  branch: gh-pages
 
 # Search
 search:
