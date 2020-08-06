@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://quirky-curran-ce2a6e.netlify.app
+url: https://gzhu-1259165009.cos-website.ap-guangzhou.myqcloud.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -98,9 +98,12 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:hugeeechen/gzhu.git
-  branch: master
+  type: cos
+  appId: 1259165009
+  secretId: AKIDpyrLrbiTbTbZPAswtt040f4HI9m8Po1x
+  secretKey: wvob8zav0vB9vRiTtES0Wv8SXN099zOY
+  bucket: gzhu-1259165009
+  region: ap-guangzhou
 
 # Search
 search:
