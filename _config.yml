@@ -8,7 +8,7 @@ subtitle: ''
 description: 'FOR FRESHMAN'
 keywords:
 author: H0u2_C IoT
-language: zh-Hans
+language: zh-CN
 timezone: ''
 
 # URL
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: nextv6
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -111,3 +111,11 @@ search:
   field: post
   format: html
   limit: 10000
+
+# symbols_count_time
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+  exclude_codeblock: true
