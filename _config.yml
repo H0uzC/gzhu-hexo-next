@@ -97,7 +97,7 @@ theme: nextv6
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
+#deploy:
 
 # Search
 search:
