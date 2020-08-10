@@ -113,3 +113,15 @@ symbols_count_time:
   total_symbols: true
   total_time: true
   exclude_codeblock: true
+
+
+# RSS
+# Extensions
+## Plugins: http://hexo.io/plugins/
+plugin:
+  - hexo-generator-feed
+  #Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
