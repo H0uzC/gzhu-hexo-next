@@ -1,4 +1,4 @@
-# gzhu
-FOR FRESHMAN
+# gzhu.info
+*FOR FRESHMAN*
 
-[麻烦点一下](https://gzhu.info/)
+Click [Here ](https://gzhu.info/) to check out what and who this is for
